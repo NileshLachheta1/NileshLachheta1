@@ -8,13 +8,13 @@
 <br>
 <br>
 
-➤ 🔭 I’m currently working on **Restaurant E-Commerce Website**
+➤  🔭 I’m currently working on **Restaurant E-Commerce Website**
 
-➤ 🌱 I’m currently learning **PHP**
+➤  🌱 I’m currently learning **PHP**
 
-◆ 💬 Ask me about **MERN, React Native, JAVA**
+➤  💬 Ask me about **MERN, React Native, JAVA**
 
-◆ 📫 How to reach me **nileshlachheta1995@gmail.com**
+➤  📫 How to reach me **nileshlachheta1995@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
