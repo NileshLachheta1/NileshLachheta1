@@ -8,9 +8,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **Restaurant E-Commerce Website**
+➤ 🔭 I’m currently working on **Restaurant E-Commerce Website**
 
-- 🌱 I’m currently learning **PHP**
+➤ 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **MERN, React Native, JAVA**
 
