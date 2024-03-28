@@ -8,11 +8,11 @@
 <br>
 <br>
 
-➤  🔭 I’m currently working on **Restaurant E-Commerce Website**
+➤  🔭 I’m currently working on **E-Commerce Mobile App**
 
-➤  🌱 I’m currently learning **PHP**
+➤  🌱 I’m currently learning **NEXTJS**
 
-➤  💬 Ask me about **MERN, React Native, JAVA**
+➤  💬 Ask me about **MERN, React Native, JAVA, NEXTJS, PHP**
 
 ➤  📫 How to reach me **nileshlachheta1995@gmail.com**
 
