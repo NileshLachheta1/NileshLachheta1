@@ -10,9 +10,9 @@
 
 ➤  🔭 I’m currently working on **E-Commerce Mobile App**
 
-➤  🌱 I’m currently learning **NEXTJS**
+➤  🌱 I’m currently learning **Next.Js**
 
-➤  💬 Ask me about **MERN, React Native, JAVA, NEXTJS, PHP**
+➤  💬 Ask me about **MERN, React Native, JAVA, Next.Js, PHP**
 
 ➤  📫 How to reach me **nileshlachheta1995@gmail.com**
 
