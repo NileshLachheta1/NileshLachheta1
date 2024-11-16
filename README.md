@@ -106,7 +106,7 @@
 <a href="https://instagram.com/h_hemant_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_hemant_p" height="30" width="40" /></a> -->
 
 <a href="https://twitter.com/@lachhetani61596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lachhetani61596" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nilesh lachheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh lachheta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nileshlachheta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh lachheta" height="30" width="40" /></a>
 <a href="https://instagram.com/nilesh_lachheta_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilesh_lachheta_02" height="30" width="40" /></a>
 </p>
 
